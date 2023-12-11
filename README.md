@@ -2,8 +2,8 @@
 
 ## Technologies
 
-| ![JS](javascript.png) | ![Express](express.png) | ![Java](java.png) | ![Python](python.png) | ![C++](cpp.png) |
-
+| <img src="javascript.png" alt="JS" width="50"/> | <img src="express.png" alt="Express" width="50"/> | <img src="java.png" alt="Java" width="50"/> | <img src="python.png" alt="Python" width="50"/> | <img src="cpp.png" alt="C++" width="50"/> |
+|--------------------------------------------------|--------------------------------------------------|----------------------------------------------|-------------------------------------------------|-------------------------------------------|
 ## Experience
 
 ### For school
