@@ -9,6 +9,7 @@
 ### For school
   - Cansat competition participation
   - Fullstack web applications
+  - Retotech competition participation
 
 ### On my own
   - AI particle life 3D phisics engine
@@ -30,7 +31,7 @@
 
 ## Aspirations
 
-I am interested in game, and graphic development, however, I'm fond of networks and web development with express and js vanilla. I'm open to learn as much frameworks as I need for front end development and allso for mobile. My goal is to gain expiriace in the world of development.
+I am interested in game, and graphic development, however, I'm fond of networks and web development with express and js vanilla, as you can see in @IgualadaSat s repositiories. I'm open to learn as much frameworks as I need for front end development and allso for mobile. My goal is to gain expiriace in the world of development.
 
 ## Contact
 
