@@ -1,4 +1,47 @@
-### Hi there 👋
+# Pablo Trik Marín
+
+## Technologies
+
+| ![JS](javascript.png) | ![Express](javascript.png) | ![Node](javascript.png) | ![Java](javascript.png) | ![Python](javascript.png) | ![C++](javascript.png) |
+
+## Experience
+
+### For school
+  - Cansat competition participation
+  - Fullstack web applications
+
+### On my own
+  - AI particle life 3D phisics engine
+  - 3D renderer in Java, Python and JS vanilla (no libraries)
+  - Minecraft 16bit shader
+  - Js little plataformer game called Timy's
+  - Fancy fullstack web development (node/express and php)
+
+### With friends
+  - Jrpg made in unity called Simons History
+  - JS games
+  - Path tracing renderer (C++ widthout libraries)
+
+## Soft Skills
+
+| ![🗣️](comunication.png) | ![🤝](teamwork.png) | ![🧠](problem.png) | ![🔄](adaptability.png) | ![🤲](empaty.png) |
+|----------------------------------|-----------------------------|-----------------------------------|---------------------------------|---------------------------|
+| Communication | Teamwork | Problem Solving | Adaptability | Empathy |
+
+## Aspirations
+
+I am interested in game, and graphic development, however, I'm fond of networks and web development with express and js vanilla. I'm open to learn as much frameworks as I need for front end development and allso for mobile. My goal is to gain expiriace in the world of development.
+
+## Contact
+
+- **Phone number:** 689 93 75 95 (please whatsapp, otherwise I wouldn't answer)
+
+Thank you for visiting my profile! 
+
+
+
+
+
 
 <!--
 **trmaa/trmaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
