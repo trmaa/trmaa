@@ -13,7 +13,7 @@
 
 ### On my own
   - AI particle life 3D phisics engine
-  - 3D renderer in Java, Python and JS vanilla (no libraries)
+  - 3D renderers in Java, Python and JS vanilla (no libraries)
   - Minecraft 16bit shader
   - Js little plataformer game called Timy's
   - Fancy fullstack web development (node/express and php)
