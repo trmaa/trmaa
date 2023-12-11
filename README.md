@@ -2,7 +2,7 @@
 
 ## Technologies
 
-| ![JS](javascript.png) | ![Express](javascript.png) | ![Node](javascript.png) | ![Java](javascript.png) | ![Python](javascript.png) | ![C++](javascript.png) |
+| ![JS](javascript.png) | ![Express](express.png) | ![Java](java.png) | ![Python](python.png) | ![C++](cpp.png) |
 
 ## Experience
 
