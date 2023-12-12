@@ -31,7 +31,7 @@
 
 ## Aspirations
 
-I am interested in game, and graphic development, however, I'm fond of networks and web development with express and js vanilla, as you can see in @IgualadaSat s repositiories. I'm open to learn as much frameworks as I need for front end development and allso for mobile. My goal is to gain expiriace in the world of development.
+I am interested in game, and graphic development, however, I'm fond of networks and web development with express and js vanilla, as you can see in @IgualadaSat s repositiories. I'm open to learn as much frameworks as I need for front end development and allso for mobile. My goal is to gain expiriace in the world of development and good practices related to POO and use of arrays and vectors.
 
 ## Contact
 
