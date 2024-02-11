@@ -12,6 +12,8 @@
   - Retotech competition participation
 
 ### On my own
+  - A C# CPU sigelthreaded real time ray tracer
+  - JS ray casting
   - AI particle life 3D phisics engine
   - 3D renderers in Java, Python and JS vanilla (no libraries)
   - Minecraft 16bit shader
@@ -21,7 +23,7 @@
 ### With friends
   - Jrpg made in unity called Simons History
   - JS games
-  - Path tracing renderer (C++ widthout libraries)
+  - Ray tracing renderer (C++ widthout libraries)
 
 ## Soft Skills
 
@@ -31,7 +33,7 @@
 
 ## Aspirations
 
-I am interested in game, and graphic development, however, I'm fond of networks and web development with express and js vanilla, as you can see in @IgualadaSat s repositiories. I'm open to learn as much frameworks as I need for front end development and allso for mobile. My goal is to gain expiriace in the world of development and good practices related to OOP and use of arrays and vectors.
+I am interested in game, AI and graphic development, however, I'm fond of networks and web development with express and js vanilla, as you can see in @IgualadaSat s repositiories. I'm open to learn as much frameworks as I need for front end development and allso for mobile. My goal is to gain expiriace in the world of development and good practices related to OOP, use of arrays and vectors and memory optimization with pointers.
 
 ## Contact
 
