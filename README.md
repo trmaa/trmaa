@@ -2,8 +2,8 @@
 
 ## Technologies
 
-| <img src="javascript.png" alt="JS" width="50"/> | <img src="express.png" alt="Express" width="50"/> | <img src="java.png" alt="Java" width="50"/> / <img src="csp.png" alt="C#" width="50"> | <img src="cpp.png" alt="C++" width="50"/> | <img src="python.png" alt="Python" width="50"/> |
-|--------------------------------------------------|--------------------------------------------------|----------------------------------------------|-------------------------------------------------|-------------------------------------------| 
+| <img src="csp.png" alt="Java" width="50"/> | <img src="java.png" alt="C#" width="50"> | <img src="javascript.png" alt="JS" width="50"/> | <img src="express.png" alt="Express" width="50"/> | <img src="cpp.png" alt="C++" width="50"/> | <img src="python.png" alt="Python" width="50"/> |
+|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|----------------------------------------------|-------------------------------------------------|-------------------------------------------| 
 ## Experience
 
 ### For school
