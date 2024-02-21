@@ -8,11 +8,11 @@
 
 ### For school
   - Cansat competition participation
+  - Ray tracing renderer in C#
   - Fullstack web applications
   - Retotech competition participation
 
 ### On my own
-  - A C# CPU sigelthreaded real time ray tracer
   - JS ray casting
   - AI particle life 3D phisics engine
   - 3D renderers in Java, Python and JS vanilla (no libraries)
