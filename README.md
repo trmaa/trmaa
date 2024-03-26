@@ -1,5 +1,8 @@
 # Pablo Trik Marín
 
+Tech CV in english [Here](Tech.pdf).
+Scial CV in catalan [Here](Social.pdf).
+
 ## Technologies
 
 | <img src="csp.png" alt="Java" width="50"/> | <img src="java.png" alt="C#" width="50"> | <img src="javascript.png" alt="JS" width="50"/> | <img src="express.png" alt="Express" width="50"/> | <img src="cpp.png" alt="C++" width="50"/> | <img src="python.png" alt="Python" width="50"/> |
