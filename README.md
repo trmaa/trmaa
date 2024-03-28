@@ -1,7 +1,7 @@
 # Pablo Trik Marín
 
 Tech CV in english [Here](Tech.pdf).
-Scial CV in catalan [Here](Social.pdf).
+Social CV in catalan [Here](Social.pdf).
 
 ## Technologies
 
@@ -43,6 +43,8 @@ I am interested in game, AI and graphic development, however, I'm fond of networ
 - **Phone number:** 689 93 75 95 (please whatsapp, otherwise I wouldn't answer)
 
 Thank you for visiting my profile! 
+
+![vidio-boy's GitHub stats](https://github-readme-stats.vercel.app/api?username=trmaa&show_icons=true&theme=dark)
 
 
 
