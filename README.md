@@ -10,8 +10,8 @@ Social CV in catalan [Here](Social.pdf).
 ## Experience
 
 ### For school
-  - Cansat competition participation
-  - Ray tracing renderer in C#
+  - Cansat competition participation git@github.com:IgualadaSat/Cansat_2024_ground_station.git
+  - Ray tracing renderer in C++
   - Fullstack web applications
   - Retotech competition participation
 
