@@ -5,8 +5,8 @@ Social CV in catalan [Here](Social.pdf).
 
 ## Technologies
 
-| <img src="cpp.png" alt="C++" width="50"/>  | <img src="javascript.png" alt="JS" width="50"/> | <img src="express.png" alt="Node" width="50"> | <img src="csp.png" alt="Java" width="50"/> |
-|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
+| <img src="cpp.png" alt="C++" width="50"/>  | <img src="sfml.png" alt="sfml" width="50"/> | <img src="nvim.png" alt="nvim" width="50"/> |
+
 ## Experience
 
 ### For school
@@ -21,18 +21,11 @@ Social CV in catalan [Here](Social.pdf).
   - 3D renderers in Java, Python and JS vanilla (no libraries)
   - Minecraft 16bit shader
   - Js little plataformer game called Timy's
-  - Fancy fullstack web development (node/express and php)
 
 ### With friends
   - Jrpg made in unity called Simons History
   - JS games
   - Ray tracing renderer (C++ widthout libraries)
-
-## Soft Skills
-
-| ![🗣️](comunication.png) | ![🤝](teamwork.png) | ![🧠](problem.png) | ![🔄](adaptability.png) | ![🤲](empaty.png) |
-|----------------------------------|-----------------------------|-----------------------------------|---------------------------------|---------------------------|
-| Communication | Teamwork | Problem Solving | Adaptability | Empathy |
 
 ## Aspirations
 
@@ -40,9 +33,7 @@ I am interested in game, AI and graphic development, however, I'm fond of networ
 
 ## Contact
 
-- **Phone number:** 689 93 75 95 (please whatsapp, otherwise I wouldn't answer)
-
-Thank you for visiting my profile! 
+- **Phone number:** 689 93 75 95 (please whatsapp, otherwise I might not answer)
 
 ![vidio-boy's GitHub stats](https://github-readme-stats.vercel.app/api?username=trmaa&show_icons=true&theme=dark)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
