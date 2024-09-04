@@ -6,6 +6,7 @@ Social CV in catalan [Here](Social.pdf).
 ## Technologies
 
 | <img src="cpp.png" alt="C++" width="50"/>  | <img src="sfml.png" alt="sfml" width="50"/> | <img src="nvim.png" alt="nvim" width="50"/> |
+|---|---|---|
 
 ## Experience
 
