@@ -1,6 +1,6 @@
 # Pablo Marín
 
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=trmaa&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trmaa\&layout=compact&theme=dark)
 ![vidio-boy's GitHub stats](https://github-readme-stats.vercel.app/api?username=trmaa&show_icons=true&theme=dark)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
