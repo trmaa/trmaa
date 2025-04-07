@@ -1,8 +1,18 @@
 # Pablo Marín
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trmaa\&layout=compact&theme=dark)
+```cpp
+int main() {
+    std::vector<std::string> btws = { "Arch", "DWM", "Vim", "C++", "OpenGL", "Thinkpad" };
+
+    for (const std::string& btw : btws) {
+        std::cout << "I use " << btw << " btw!! \n";
+    }
+}
+```
+
 ![vidio-boy's GitHub stats](https://github-readme-stats.vercel.app/api?username=trmaa&show_icons=true&theme=dark)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trmaa\&layout=compact&theme=dark)-->
 
 ## Contact
 
