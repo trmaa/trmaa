@@ -2,7 +2,7 @@
 
 ```cpp
 int main() {
-    std::vector<std::string> btws = { "Arch", "DWM", "Vim", "C++", "OpenGL", "Thinkpad", fish };
+    std::vector<std::string> btws = { "Arch", "DWM", "Vim", "C++", "OpenGL", "Thinkpad", "fish" };
 
     for (const std::string& btw : btws) {
         std::cout << "I use " << btw << " btw!! \n";
