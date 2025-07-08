@@ -2,10 +2,10 @@
 
 ```cpp
 int main() {
-    std::vector<std::string> btws = { "Arch", "DWM", "Vim", "C++", "OpenGL", "Thinkpad", "fish" };
+    char* btws[] = { "Arch", "DWM", "Vim", "C++", "OpenGL", "Thinkpad", "fish" };
 
-    for (const std::string& btw : btws) {
-        std::cout << "I use " << btw << " btw!! \n";
+    for (int i = 0; i < sizeof(btws)/sizeof(char*); i++) {
+        printf("I use %s btw!!\n", *(btws + i));
     }
 }
 ```
