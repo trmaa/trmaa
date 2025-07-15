@@ -2,7 +2,7 @@
 
 ```cpp
 int main() {
-    char* btws[] = { "Arch", "DWM", "Vim", "C++", "OpenGL", "Thinkpad", "fish" };
+    char* btws[] = { "Arch", "DWM", "Vim", "C++", "OpenGL", "Thinkpad" };
 
     for (int i = 0; i < sizeof(btws)/sizeof(char*); i++) {
         printf("I use %s btw!!\n", *(btws + i));
@@ -11,6 +11,7 @@ int main() {
 ```
 
 ![vidio-boy's GitHub stats](https://github-readme-stats.vercel.app/api?username=trmaa&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trmaa\&layout=compact&theme=dark)
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trmaa\&layout=compact&theme=dark)-->
 
