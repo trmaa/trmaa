@@ -1,12 +1,17 @@
 # Pablo Marín
 
 ```cpp
-int main() {
-        char* btws[] = { "Arch", "DWM", "Vim", "C", "OpenGL", "Thinkpad", "tabstop=8" };
+#include <stdio.h>
 
-        for (int i = 0; i < sizeof(btws)/sizeof(char*); i++) {
-                printf("I use %s btw!!\n", *(btws + i));
-        }
+int
+main(void)
+{
+        char* btws[] = { "Arch", "Vim", "C", "tabstop=8" };
+
+        for (int i = 0; i < sizeof(btws)/sizeof(char*); i++)
+          {
+                printf("I use %s btw...\n", *(btws + i));
+          }
 }
 ```
 
