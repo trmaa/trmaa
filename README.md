@@ -6,7 +6,7 @@
 int
 main(void)
 {
-        char* btws[] = { "Arch", "Vim", "C", "tabstop=8" };
+        char *btws[] = { "Arch", "Vim", "C", "tabstop=8" };
 
         for (int i = 0; i < sizeof(btws)/sizeof(char *); i++)
           {
